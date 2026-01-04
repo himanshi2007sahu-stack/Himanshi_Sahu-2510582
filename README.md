@@ -87,4 +87,5 @@ The Mini Calculator project is a simple yet effective way to understand the fund
 It also introduces real-world practices like GitHub project documentation, making it a complete beginner-level project.
 
 ## Output Screenshot
-"C:\Users\himan\OneDrive\Pictures\Screenshots\mini_calci.c.png"
+
+<img width="1920" height="1020" alt="Screenshot 2026-01-04 143738" src="https://github.com/user-attachments/assets/c8c5bd0b-13d0-4617-b059-bde8336cdea8" />
