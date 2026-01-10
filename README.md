@@ -1,6 +1,6 @@
-# 🧮 Mini Calculator (C Language)
+#  Mini Calculator (C Language)
 
-## 📌 Project Overview
+##  Project Overview
 The **Mini Calculator** is a console-based application developed using the **C programming language**.  
 It performs basic mathematical operations such as **Addition, Subtraction, Multiplication, and Division** using a **menu-driven approach** and **modular programming with functions**.
 
@@ -8,7 +8,7 @@ This project is beginner-friendly and focuses on building strong fundamentals in
 
 ---
 
-## 🎯 Why This Project Was Created
+##  Why This Project Was Created
 This project was created to:
 - Understand **functions and modular programming** in C
 - Practice **conditional statements and switch cases**
@@ -18,7 +18,7 @@ This project was created to:
 
 ---
 
-## ⚙️ Features
+##  Features
 - Menu-driven user interface
 - Performs:
   - Addition
@@ -32,7 +32,7 @@ This project was created to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Language:** C
 - **Compiler:** GCC
 - **Editor:** VS Code
@@ -41,7 +41,7 @@ This project was created to:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository:
    ```bash
@@ -51,7 +51,7 @@ This project was created to:
 3. Run the program:
  ./calculator
 
-## 📊 Sample Output
+##  Sample Output
 ------ Mini Calculator ------
 1. Addition
 2. Subtraction
@@ -65,14 +65,14 @@ Enter two numbers: 10 5
 Result = 15
 
 
-## 📈 Utility of the Project
+##  Utility of the Project
 
 -Helps beginners understand core C programming concepts
 -Useful for academic practicals and assignments
 -Strengthens basics required for DSA and advanced programming
 -Can be used as a foundation for advanced calculator projects
 
-## 🔮 Future Scope
+##  Future Scope
 
 -Add advanced operations (power, modulus, square root)
 -Add loop for continuous calculation
@@ -81,7 +81,7 @@ Result = 15
 -Implement file handling to store calculation history
 
 
-## 🙌 Conclusion
+##  Conclusion
 
 The Mini Calculator project is a simple yet effective way to understand the fundamentals of C programming and modular design.
 It also introduces real-world practices like GitHub project documentation, making it a complete beginner-level project.
